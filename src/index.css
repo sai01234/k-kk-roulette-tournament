@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: sans-serif; /* Or keep the original font stack if preferred */
+  margin: 0;
+  /* Remove default padding/margins if Tailwind handles them */
+  /* background-color: #f0f0f0; /* Example background */
+}
